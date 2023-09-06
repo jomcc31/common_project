@@ -1,0 +1,40 @@
+h1 {
+    color: #32467b;
+    text-align: center;
+    font-family: Courier, Impact, Arial;
+    font-size: larger;
+}
+
+body {
+    background-color: #bec4dd;
+    color: #32467b;
+}
+
+h2 {
+    color: #32467b;
+    font-family: Courier, Impact, Arial;
+    font-size: large;
+}
+
+h3 {
+    color: #32467b;
+    font-family: Courier, Impact, Arial;
+    font-size: large;
+}
+
+p {
+    line-height: 25px;
+}
+
+img {
+    margin: 20px;
+    padding: 10px;
+    border-top-right-radius: 30px;
+    border: 5px solid #9da6c8;
+}
+
+li {
+    margin-left: 50px;
+    display: inline-block;
+
+}
